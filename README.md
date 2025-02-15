@@ -1,4 +1,4 @@
-# Epicz0n.50
+![page](https://github.com/user-attachments/assets/64f75d27-7e23-4fec-9e39-03000ff8584c)# Epicz0n.50
 
 Welcome to Epicz0n Useful Links, your go-to resource for quick access to important and helpful websites.
 
@@ -26,3 +26,4 @@ Contact
 
 For any inquiries, please contact epicshadowroot@gmail.com.
 
+![page](https://github.com/user-attachments/assets/63f45040-1a90-4494-ae39-03525837e2ea)
