@@ -1,1 +1,28 @@
 # Epicz0n.50
+
+Welcome to Epicz0n Useful Links, your go-to resource for quick access to important and helpful websites.
+
+About
+
+This site is designed to provide easy navigation to a curated list of useful links for various categories such as productivity, learning, development, and more.
+
+Features
+
+A collection of handpicked useful links.
+
+Easy-to-use interface.
+
+Regular updates to keep content relevant.
+
+How to Use
+
+Simply browse through the categories and click on the links to visit the respective sites.
+
+Contribute
+
+If you have suggestions for new links or improvements, feel free to reach out or submit a request.
+
+Contact
+
+For any inquiries, please contact epicshadowroot@gmail.com.
+
