@@ -20,12 +20,5 @@ How to Use
 
 Simply browse through the categories and click on the links to visit the respective sites.
 
-Contribute
-
-If you have suggestions for new links or improvements, feel free to reach out or submit a request.
-
-Contact
-
-For any inquiries, please contact epicshadowroot@gmail.com.
 
 ![page](https://github.com/user-attachments/assets/63f45040-1a90-4494-ae39-03525837e2ea)
