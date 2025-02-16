@@ -1,6 +1,6 @@
 # Epicz0n.50
 
-"This website is intended solely for educational and research purposes. It does not promote, support, or encourage any illegal activities. Any information provided is meant to enhance knowledge in cybersecurity, ethical hacking, and digital forensics within legal and ethical boundaries."
+"This page is intended solely for educational and research purposes. It does not promote, support, or encourage any illegal activities. Any information provided is meant to enhance knowledge in cybersecurity, ethical hacking, and digital forensics within legal and ethical boundaries."
 
 Welcome to Epicz0n Useful Links, your go-to resource for quick access to important and helpful websites.
 
